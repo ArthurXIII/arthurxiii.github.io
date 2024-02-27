@@ -1,7 +1,7 @@
 [Arthur Blog](https://arthurxiii.github.io/)
 ================================
 
-> I copy this from [hux](https://huxpro.github.io).
+> I copy this from [hux's blog]([Arthur](https://github.com/Huxpro/huxpro.github.io) ).
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
