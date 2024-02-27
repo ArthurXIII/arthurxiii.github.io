@@ -1,4 +1,4 @@
-[Arthur Blog](https://Arthur-Lew.io)
+[Arthur Blog](https://arthurxiii.github.io/)
 ================================
 
 > I never expect this becomes popular.
