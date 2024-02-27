@@ -1,4 +1,4 @@
-[Hux Blog](https://huangxuan.me)
+[Arthur Blog](https://Arthur-Lew.io)
 ================================
 
 > I never expect this becomes popular.
