@@ -8,4 +8,4 @@ gem "rake"
 
 gem "webrick", "~> 1.7"
 
-gem 'jekyll-admin', '~> 0.11.1'
+gem 'jekyll-admin', group: :jekyll_plugins
