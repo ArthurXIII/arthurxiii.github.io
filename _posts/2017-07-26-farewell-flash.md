@@ -8,7 +8,7 @@ header-mask: 0.2
 tags:
   - Web
   - Flash
-  - os
+  - Os
 ---
 
 > 本文首发于我的知乎专栏 [The Little Programmer](https://zhuanlan.zhihu.com/p/28109200)，转载请保留链接 ;)
