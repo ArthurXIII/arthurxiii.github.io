@@ -8,4 +8,6 @@ gem "rake"
 
 gem "webrick", "~> 1.7"
 
+gem 'jekyll-twitter-plugin'
+
 gem 'jekyll-admin', group: :jekyll_plugins
