@@ -67,7 +67,7 @@ kramdown:
 disqus_username: Arthur
 
 # Netease settings
-netease_comment: false
+comment: false
 
 # Analytics settings
 # Baidu Analytics
