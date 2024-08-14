@@ -44,7 +44,9 @@ anchorjs: true # if you want to customize anchor. check out line:181 of `post.ht
 # `$ gem install jekyll-paginate`
 plugins: [jekyll-paginate]
 plugins: [jekyll-sitemap]
+plugins: ['jekyll-twitter-plugin']
 gems: [jekyll-sitemap]
+
 paginate_path: "page:num"   #分页页面路径格式
 
 # Markdown settings
