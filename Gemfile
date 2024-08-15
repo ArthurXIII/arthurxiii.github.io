@@ -7,7 +7,7 @@ gem "jekyll", "~> 4.0"
 gem "rake"
 
 gem "webrick", "~> 1.7"
-
+gem 'jekyll-admin', group: :jekyll_plugins
 gem 'jekyll-twitter-plugin'
 
 gem 'jekyll-admin', group: :jekyll_plugins
